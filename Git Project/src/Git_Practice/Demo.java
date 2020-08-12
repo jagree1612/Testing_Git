@@ -1,4 +1,4 @@
-package com.git;
+package Git_Practice;
 
 public class Demo {
 	
